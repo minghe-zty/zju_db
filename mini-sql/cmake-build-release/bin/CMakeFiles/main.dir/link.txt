@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=gnu++11 -fPIC -Wall -Wextra -Wattributes -Wunused-parameter -O3 -DNDEBUG CMakeFiles/main.dir/main.cpp.o -o main  -Wl,-rpath,/mnt/d/mini-sql-master-0614/cmake-build-release/bin:/mnt/d/mini-sql-master-0614/cmake-build-release/glog-build libzSql.so ../glog-build/libglog.so.0.6.0 

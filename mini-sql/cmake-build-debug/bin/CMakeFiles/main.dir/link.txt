@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=gnu++11 -fPIC -Wall -Wextra -Wattributes -Wunused-parameter -g -O0 -ggdb -fno-omit-frame-pointer -fno-optimize-sibling-calls CMakeFiles/main.dir/main.cpp.o -o main  -Wl,-rpath,/mnt/d/mini-sql-master-0614/cmake-build-debug/bin:/mnt/d/mini-sql-master-0614/cmake-build-debug/glog-build libzSql.so ../glog-build/libglogd.so.0.6.0 
