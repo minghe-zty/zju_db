@@ -46,11 +46,12 @@ make -j
 ### Running Tests
 
 ```bash
-# Run all tests
+# Run all tests (from build directory)
 ./test/minisql_test
 
-# Run specific test
+# Build and run a specific test (e.g., lru_replacer_test)
 make lru_replacer_test
+./test/lru_replacer_test
 ```
 
 ## Requirements
